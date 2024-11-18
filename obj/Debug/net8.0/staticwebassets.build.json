@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "m5ZuXHZ0rZjJZ39USfEgqQmCTNpcwaAzyrtVLq0NfdI=",
+  "Source": "WebAPIProject",
+  "BasePath": "_content/WebAPIProject",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebAPIProject\\wwwroot",
+      "Source": "WebAPIProject",
+      "ContentRoot": "C:\\Users\\chirag mali\\source\\repos\\WebAPIProject\\wwwroot\\",
+      "BasePath": "_content/WebAPIProject",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\chirag mali\\source\\repos\\WebAPIProject\\wwwroot\\Export\\customerinfo.xlsx",
+      "SourceId": "WebAPIProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\chirag mali\\source\\repos\\WebAPIProject\\wwwroot\\",
+      "BasePath": "_content/WebAPIProject",
+      "RelativePath": "Export/customerinfo.xlsx",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Export\\customerinfo.xlsx"
+    },
+    {
+      "Identity": "C:\\Users\\chirag mali\\source\\repos\\WebAPIProject\\wwwroot\\Upload\\product\\1\\lenovo.jpg",
+      "SourceId": "WebAPIProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\chirag mali\\source\\repos\\WebAPIProject\\wwwroot\\",
+      "BasePath": "_content/WebAPIProject",
+      "RelativePath": "Upload/product/1/lenovo.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Upload\\product\\1\\lenovo.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\chirag mali\\source\\repos\\WebAPIProject\\wwwroot\\Upload\\product\\1\\tshirt.jpg",
+      "SourceId": "WebAPIProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\chirag mali\\source\\repos\\WebAPIProject\\wwwroot\\",
+      "BasePath": "_content/WebAPIProject",
+      "RelativePath": "Upload/product/1/tshirt.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Upload\\product\\1\\tshirt.jpg"
+    }
+  ]
+}

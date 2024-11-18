@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\chirag mali\\source\\repos\\WebAPIProject\\wwwroot\\Export\\customerinfo.xlsx",
+      "PackagePath": "staticwebassets\\Export\\customerinfo.xlsx"
+    },
+    {
+      "Id": "C:\\Users\\chirag mali\\source\\repos\\WebAPIProject\\wwwroot\\Upload\\product\\1\\lenovo.jpg",
+      "PackagePath": "staticwebassets\\Upload\\product\\1\\lenovo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\chirag mali\\source\\repos\\WebAPIProject\\wwwroot\\Upload\\product\\1\\tshirt.jpg",
+      "PackagePath": "staticwebassets\\Upload\\product\\1\\tshirt.jpg"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.WebAPIProject.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.WebAPIProject.props",
+      "PackagePath": "build\\WebAPIProject.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.WebAPIProject.props",
+      "PackagePath": "buildMultiTargeting\\WebAPIProject.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.WebAPIProject.props",
+      "PackagePath": "buildTransitive\\WebAPIProject.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
