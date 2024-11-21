@@ -30,7 +30,7 @@ namespace WebAPIProject.Controllers
         [HttpPost("GenerateToken")]
          public async Task<IActionResult> GenerateToken([FromBody] UserCred userCred)
          {
-                var user = await this.context.Users.FirstOrDefaultAsync(item => item.Code == userCred.username && item.Password == userCred.password);
+                var user = await this.context.TblUsers.FirstOrDefaultAsync(item => item.Username == userCred.username && item.Password == userCred.password);
                 if (user != null)
                 {
                 //genrate token
@@ -40,7 +40,7 @@ namespace WebAPIProject.Controllers
                     {
                         Subject = new System.Security.Claims.ClaimsIdentity(new Claim[]
                         {
-                            new Claim(ClaimTypes.Name, user.Code),
+                            new Claim(ClaimTypes.Name, user.Name),
                             new Claim(ClaimTypes.Role, user.Role)
                         }),
                         Expires = DateTime.UtcNow.AddSeconds(30),

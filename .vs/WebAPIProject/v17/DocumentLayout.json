@@ -3,88 +3,155 @@
   "WorkspaceRootPath": "C:\\Users\\chirag mali\\source\\repos\\WebAPIProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{339B323D-0964-451C-BC49-2E4BD0D89676}|WebAPIProject.csproj|c:\\users\\chirag mali\\source\\repos\\webapiproject\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{339B323D-0964-451C-BC49-2E4BD0D89676}|WebAPIProject.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{339B323D-0964-451C-BC49-2E4BD0D89676}|WebAPIProject.csproj|c:\\users\\chirag mali\\source\\repos\\webapiproject\\controllers\\userrolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{339B323D-0964-451C-BC49-2E4BD0D89676}|WebAPIProject.csproj|solutionrelative:controllers\\userrolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{339B323D-0964-451C-BC49-2E4BD0D89676}|WebAPIProject.csproj|c:\\users\\chirag mali\\source\\repos\\webapiproject\\webapiproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{339B323D-0964-451C-BC49-2E4BD0D89676}|WebAPIProject.csproj|solutionrelative:webapiproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{339B323D-0964-451C-BC49-2E4BD0D89676}|WebAPIProject.csproj|c:\\users\\chirag mali\\source\\repos\\webapiproject\\container\\userroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{339B323D-0964-451C-BC49-2E4BD0D89676}|WebAPIProject.csproj|solutionrelative:container\\userroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{339B323D-0964-451C-BC49-2E4BD0D89676}|WebAPIProject.csproj|c:\\users\\chirag mali\\source\\repos\\webapiproject\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{339B323D-0964-451C-BC49-2E4BD0D89676}|WebAPIProject.csproj|solutionrelative:controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{339B323D-0964-451C-BC49-2E4BD0D89676}|WebAPIProject.csproj|c:\\users\\chirag mali\\source\\repos\\webapiproject\\service\\iuserroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{339B323D-0964-451C-BC49-2E4BD0D89676}|WebAPIProject.csproj|solutionrelative:service\\iuserroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{339B323D-0964-451C-BC49-2E4BD0D89676}|WebAPIProject.csproj|c:\\users\\chirag mali\\source\\repos\\webapiproject\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{339B323D-0964-451C-BC49-2E4BD0D89676}|WebAPIProject.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{339B323D-0964-451C-BC49-2E4BD0D89676}|WebAPIProject.csproj|c:\\users\\chirag mali\\source\\repos\\webapiproject\\model\\appmenus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{339B323D-0964-451C-BC49-2E4BD0D89676}|WebAPIProject.csproj|solutionrelative:model\\appmenus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{339B323D-0964-451C-BC49-2E4BD0D89676}|WebAPIProject.csproj|c:\\users\\chirag mali\\source\\repos\\webapiproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{339B323D-0964-451C-BC49-2E4BD0D89676}|WebAPIProject.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{339B323D-0964-451C-BC49-2E4BD0D89676}|WebAPIProject.csproj|c:\\users\\chirag mali\\source\\repos\\webapiproject\\model\\menupermission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{339B323D-0964-451C-BC49-2E4BD0D89676}|WebAPIProject.csproj|solutionrelative:model\\menupermission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{339B323D-0964-451C-BC49-2E4BD0D89676}|WebAPIProject.csproj|c:\\users\\chirag mali\\source\\repos\\webapiproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{339B323D-0964-451C-BC49-2E4BD0D89676}|WebAPIProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{339B323D-0964-451C-BC49-2E4BD0D89676}|WebAPIProject.csproj|c:\\users\\chirag mali\\source\\repos\\webapiproject\\container\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{339B323D-0964-451C-BC49-2E4BD0D89676}|WebAPIProject.csproj|solutionrelative:container\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{339B323D-0964-451C-BC49-2E4BD0D89676}|WebAPIProject.csproj|c:\\users\\chirag mali\\source\\repos\\webapiproject\\repos\\models\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{339B323D-0964-451C-BC49-2E4BD0D89676}|WebAPIProject.csproj|solutionrelative:repos\\models\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{339B323D-0964-451C-BC49-2E4BD0D89676}|WebAPIProject.csproj|c:\\users\\chirag mali\\source\\repos\\webapiproject\\repos\\models\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{339B323D-0964-451C-BC49-2E4BD0D89676}|WebAPIProject.csproj|solutionrelative:repos\\models\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{339B323D-0964-451C-BC49-2E4BD0D89676}|WebAPIProject.csproj|c:\\users\\chirag mali\\source\\repos\\webapiproject\\repos\\learndatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{339B323D-0964-451C-BC49-2E4BD0D89676}|WebAPIProject.csproj|solutionrelative:repos\\learndatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{339B323D-0964-451C-BC49-2E4BD0D89676}|WebAPIProject.csproj|c:\\users\\chirag mali\\source\\repos\\webapiproject\\controllers\\authorizecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{339B323D-0964-451C-BC49-2E4BD0D89676}|WebAPIProject.csproj|solutionrelative:controllers\\authorizecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{339B323D-0964-451C-BC49-2E4BD0D89676}|WebAPIProject.csproj|c:\\users\\chirag mali\\source\\repos\\webapiproject\\model\\tokenresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{339B323D-0964-451C-BC49-2E4BD0D89676}|WebAPIProject.csproj|solutionrelative:model\\tokenresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{339B323D-0964-451C-BC49-2E4BD0D89676}|WebAPIProject.csproj|c:\\users\\chirag mali\\source\\repos\\webapiproject\\container\\refreshhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{339B323D-0964-451C-BC49-2E4BD0D89676}|WebAPIProject.csproj|solutionrelative:container\\refreshhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{339B323D-0964-451C-BC49-2E4BD0D89676}|WebAPIProject.csproj|c:\\users\\chirag mali\\source\\repos\\webapiproject\\service\\irefreshhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{339B323D-0964-451C-BC49-2E4BD0D89676}|WebAPIProject.csproj|solutionrelative:service\\irefreshhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{339B323D-0964-451C-BC49-2E4BD0D89676}|WebAPIProject.csproj|c:\\users\\chirag mali\\source\\repos\\webapiproject\\service\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{339B323D-0964-451C-BC49-2E4BD0D89676}|WebAPIProject.csproj|solutionrelative:service\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{339B323D-0964-451C-BC49-2E4BD0D89676}|WebAPIProject.csproj|c:\\users\\chirag mali\\source\\repos\\webapiproject\\model\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{339B323D-0964-451C-BC49-2E4BD0D89676}|WebAPIProject.csproj|solutionrelative:model\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{339B323D-0964-451C-BC49-2E4BD0D89676}|WebAPIProject.csproj|c:\\users\\chirag mali\\source\\repos\\webapiproject\\model\\customermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{339B323D-0964-451C-BC49-2E4BD0D89676}|WebAPIProject.csproj|solutionrelative:model\\customermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{339B323D-0964-451C-BC49-2E4BD0D89676}|WebAPIProject.csproj|c:\\users\\chirag mali\\source\\repos\\webapiproject\\helper\\basicauthenticationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{339B323D-0964-451C-BC49-2E4BD0D89676}|WebAPIProject.csproj|solutionrelative:helper\\basicauthenticationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{339B323D-0964-451C-BC49-2E4BD0D89676}|WebAPIProject.csproj|c:\\users\\chirag mali\\source\\repos\\webapiproject\\helper\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{339B323D-0964-451C-BC49-2E4BD0D89676}|WebAPIProject.csproj|solutionrelative:helper\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{339B323D-0964-451C-BC49-2E4BD0D89676}|WebAPIProject.csproj|c:\\users\\chirag mali\\source\\repos\\webapiproject\\repos\\models\\rolepermission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{339B323D-0964-451C-BC49-2E4BD0D89676}|WebAPIProject.csproj|solutionrelative:repos\\models\\rolepermission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{339B323D-0964-451C-BC49-2E4BD0D89676}|WebAPIProject.csproj|c:\\users\\chirag mali\\source\\repos\\webapiproject\\model\\usercred.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{339B323D-0964-451C-BC49-2E4BD0D89676}|WebAPIProject.csproj|solutionrelative:model\\usercred.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{339B323D-0964-451C-BC49-2E4BD0D89676}|WebAPIProject.csproj|c:\\users\\chirag mali\\source\\repos\\webapiproject\\model\\tokenresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{339B323D-0964-451C-BC49-2E4BD0D89676}|WebAPIProject.csproj|solutionrelative:model\\tokenresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{339B323D-0964-451C-BC49-2E4BD0D89676}|WebAPIProject.csproj|c:\\users\\chirag mali\\source\\repos\\webapiproject\\model\\customermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{339B323D-0964-451C-BC49-2E4BD0D89676}|WebAPIProject.csproj|solutionrelative:model\\customermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{339B323D-0964-451C-BC49-2E4BD0D89676}|WebAPIProject.csproj|c:\\users\\chirag mali\\source\\repos\\webapiproject\\model\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{339B323D-0964-451C-BC49-2E4BD0D89676}|WebAPIProject.csproj|solutionrelative:model\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{339B323D-0964-451C-BC49-2E4BD0D89676}|WebAPIProject.csproj|c:\\users\\chirag mali\\source\\repos\\webapiproject\\model\\userregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{339B323D-0964-451C-BC49-2E4BD0D89676}|WebAPIProject.csproj|solutionrelative:model\\userregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{339B323D-0964-451C-BC49-2E4BD0D89676}|WebAPIProject.csproj|c:\\users\\chirag mali\\source\\repos\\webapiproject\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{339B323D-0964-451C-BC49-2E4BD0D89676}|WebAPIProject.csproj|solutionrelative:controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{339B323D-0964-451C-BC49-2E4BD0D89676}|WebAPIProject.csproj|c:\\users\\chirag mali\\source\\repos\\webapiproject\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{339B323D-0964-451C-BC49-2E4BD0D89676}|WebAPIProject.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{339B323D-0964-451C-BC49-2E4BD0D89676}|WebAPIProject.csproj|c:\\users\\chirag mali\\source\\repos\\webapiproject\\repos\\models\\tempuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{339B323D-0964-451C-BC49-2E4BD0D89676}|WebAPIProject.csproj|solutionrelative:repos\\models\\tempuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{339B323D-0964-451C-BC49-2E4BD0D89676}|WebAPIProject.csproj|c:\\users\\chirag mali\\source\\repos\\webapiproject\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{339B323D-0964-451C-BC49-2E4BD0D89676}|WebAPIProject.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{339B323D-0964-451C-BC49-2E4BD0D89676}|WebAPIProject.csproj|c:\\users\\chirag mali\\source\\repos\\webapiproject\\container\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{339B323D-0964-451C-BC49-2E4BD0D89676}|WebAPIProject.csproj|solutionrelative:container\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{339B323D-0964-451C-BC49-2E4BD0D89676}|WebAPIProject.csproj|c:\\users\\chirag mali\\source\\repos\\webapiproject\\repos\\learndatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{339B323D-0964-451C-BC49-2E4BD0D89676}|WebAPIProject.csproj|solutionrelative:repos\\learndatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{339B323D-0964-451C-BC49-2E4BD0D89676}|WebAPIProject.csproj|c:\\users\\chirag mali\\source\\repos\\webapiproject\\repos\\models\\tbluser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{339B323D-0964-451C-BC49-2E4BD0D89676}|WebAPIProject.csproj|solutionrelative:repos\\models\\tbluser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{339B323D-0964-451C-BC49-2E4BD0D89676}|WebAPIProject.csproj|c:\\users\\chirag mali\\source\\repos\\webapiproject\\repos\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{339B323D-0964-451C-BC49-2E4BD0D89676}|WebAPIProject.csproj|solutionrelative:repos\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{339B323D-0964-451C-BC49-2E4BD0D89676}|WebAPIProject.csproj|c:\\users\\chirag mali\\source\\repos\\webapiproject\\repos\\models\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{339B323D-0964-451C-BC49-2E4BD0D89676}|WebAPIProject.csproj|solutionrelative:repos\\models\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{339B323D-0964-451C-BC49-2E4BD0D89676}|WebAPIProject.csproj|c:\\users\\chirag mali\\source\\repos\\webapiproject\\repos\\models\\pwdmanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{339B323D-0964-451C-BC49-2E4BD0D89676}|WebAPIProject.csproj|solutionrelative:repos\\models\\pwdmanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{339B323D-0964-451C-BC49-2E4BD0D89676}|WebAPIProject.csproj|c:\\users\\chirag mali\\source\\repos\\webapiproject\\repos\\models\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{339B323D-0964-451C-BC49-2E4BD0D89676}|WebAPIProject.csproj|solutionrelative:repos\\models\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{339B323D-0964-451C-BC49-2E4BD0D89676}|WebAPIProject.csproj|c:\\users\\chirag mali\\source\\repos\\webapiproject\\repos\\models\\otpmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{339B323D-0964-451C-BC49-2E4BD0D89676}|WebAPIProject.csproj|solutionrelative:repos\\models\\otpmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{339B323D-0964-451C-BC49-2E4BD0D89676}|WebAPIProject.csproj|c:\\users\\chirag mali\\source\\repos\\webapiproject\\repos\\models\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{339B323D-0964-451C-BC49-2E4BD0D89676}|WebAPIProject.csproj|solutionrelative:repos\\models\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{339B323D-0964-451C-BC49-2E4BD0D89676}|WebAPIProject.csproj|c:\\users\\chirag mali\\source\\repos\\webapiproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{339B323D-0964-451C-BC49-2E4BD0D89676}|WebAPIProject.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{339B323D-0964-451C-BC49-2E4BD0D89676}|WebAPIProject.csproj|c:\\users\\chirag mali\\source\\repos\\webapiproject\\service\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{339B323D-0964-451C-BC49-2E4BD0D89676}|WebAPIProject.csproj|solutionrelative:service\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{339B323D-0964-451C-BC49-2E4BD0D89676}|WebAPIProject.csproj|c:\\users\\chirag mali\\source\\repos\\webapiproject\\container\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{339B323D-0964-451C-BC49-2E4BD0D89676}|WebAPIProject.csproj|solutionrelative:container\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{339B323D-0964-451C-BC49-2E4BD0D89676}|WebAPIProject.csproj|c:\\users\\chirag mali\\source\\repos\\webapiproject\\helper\\basicauthenticationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{339B323D-0964-451C-BC49-2E4BD0D89676}|WebAPIProject.csproj|solutionrelative:helper\\basicauthenticationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{339B323D-0964-451C-BC49-2E4BD0D89676}|WebAPIProject.csproj|c:\\users\\chirag mali\\source\\repos\\webapiproject\\controllers\\authorizecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{339B323D-0964-451C-BC49-2E4BD0D89676}|WebAPIProject.csproj|solutionrelative:controllers\\authorizecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{339B323D-0964-451C-BC49-2E4BD0D89676}|WebAPIProject.csproj|c:\\users\\chirag mali\\source\\repos\\webapiproject\\repos\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{339B323D-0964-451C-BC49-2E4BD0D89676}|WebAPIProject.csproj|solutionrelative:repos\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{339B323D-0964-451C-BC49-2E4BD0D89676}|WebAPIProject.csproj|c:\\users\\chirag mali\\source\\repos\\webapiproject\\container\\refreshhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{339B323D-0964-451C-BC49-2E4BD0D89676}|WebAPIProject.csproj|solutionrelative:container\\refreshhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{339B323D-0964-451C-BC49-2E4BD0D89676}|WebAPIProject.csproj|c:\\users\\chirag mali\\source\\repos\\webapiproject\\helper\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{339B323D-0964-451C-BC49-2E4BD0D89676}|WebAPIProject.csproj|solutionrelative:helper\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{339B323D-0964-451C-BC49-2E4BD0D89676}|WebAPIProject.csproj|c:\\users\\chirag mali\\source\\repos\\webapiproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{339B323D-0964-451C-BC49-2E4BD0D89676}|WebAPIProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{339B323D-0964-451C-BC49-2E4BD0D89676}|WebAPIProject.csproj|c:\\users\\chirag mali\\source\\repos\\webapiproject\\service\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{339B323D-0964-451C-BC49-2E4BD0D89676}|WebAPIProject.csproj|solutionrelative:service\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{339B323D-0964-451C-BC49-2E4BD0D89676}|WebAPIProject.csproj|c:\\users\\chirag mali\\source\\repos\\webapiproject\\webapiproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{339B323D-0964-451C-BC49-2E4BD0D89676}|WebAPIProject.csproj|solutionrelative:webapiproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{339B323D-0964-451C-BC49-2E4BD0D89676}|WebAPIProject.csproj|c:\\users\\chirag mali\\source\\repos\\webapiproject\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{339B323D-0964-451C-BC49-2E4BD0D89676}|WebAPIProject.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{339B323D-0964-451C-BC49-2E4BD0D89676}|WebAPIProject.csproj|c:\\users\\chirag mali\\source\\repos\\webapiproject\\service\\irefreshhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{339B323D-0964-451C-BC49-2E4BD0D89676}|WebAPIProject.csproj|solutionrelative:service\\irefreshhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\chirag mali\\source\\repos\\WebAPIProject\\.vs\\WebAPIProject\\config\\applicationhost.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
@@ -109,24 +176,24 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 26,
               "Title": "CustomerService.cs",
               "DocumentMoniker": "C:\\Users\\chirag mali\\source\\repos\\WebAPIProject\\Container\\CustomerService.cs",
               "RelativeDocumentMoniker": "Container\\CustomerService.cs",
               "ToolTip": "C:\\Users\\chirag mali\\source\\repos\\WebAPIProject\\Container\\CustomerService.cs",
               "RelativeToolTip": "Container\\CustomerService.cs",
-              "ViewState": "AQIAAB0AAAAAAAAAAAAWwC8AAAAwAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAhwBQAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-05T09:51:55.005Z",
               "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 11,
               "Title": "CustomerController.cs",
               "DocumentMoniker": "C:\\Users\\chirag mali\\source\\repos\\WebAPIProject\\Controllers\\CustomerController.cs",
               "RelativeDocumentMoniker": "Controllers\\CustomerController.cs",
@@ -135,11 +202,12 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAGsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-05T09:47:34.021Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 12,
               "Title": "ProductController.cs",
               "DocumentMoniker": "C:\\Users\\chirag mali\\source\\repos\\WebAPIProject\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
@@ -152,84 +220,237 @@
               "EditorCaption": ""
             },
             {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\chirag mali\\source\\repos\\WebAPIProject\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\chirag mali\\source\\repos\\WebAPIProject\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T10:44:55.773Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\chirag mali\\source\\repos\\WebAPIProject\\Container\\UserService.cs",
+              "RelativeDocumentMoniker": "Container\\UserService.cs",
+              "ToolTip": "C:\\Users\\chirag mali\\source\\repos\\WebAPIProject\\Container\\UserService.cs",
+              "RelativeToolTip": "Container\\UserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T11:14:05.996Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserRoleService.cs",
+              "DocumentMoniker": "C:\\Users\\chirag mali\\source\\repos\\WebAPIProject\\Container\\UserRoleService.cs",
+              "RelativeDocumentMoniker": "Container\\UserRoleService.cs",
+              "ToolTip": "C:\\Users\\chirag mali\\source\\repos\\WebAPIProject\\Container\\UserRoleService.cs",
+              "RelativeToolTip": "Container\\UserRoleService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T11:14:21.442Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Menupermission.cs",
+              "DocumentMoniker": "C:\\Users\\chirag mali\\source\\repos\\WebAPIProject\\Model\\Menupermission.cs",
+              "RelativeDocumentMoniker": "Model\\Menupermission.cs",
+              "ToolTip": "C:\\Users\\chirag mali\\source\\repos\\WebAPIProject\\Model\\Menupermission.cs",
+              "RelativeToolTip": "Model\\Menupermission.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T12:09:38.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "CustomerControllerTests.cs",
-              "DocumentMoniker": "C:\\Users\\chirag mali\\source\\repos\\UnitTestProject1\\CustomerControllerTests.cs",
-              "RelativeDocumentMoniker": "..\\UnitTestProject1\\CustomerControllerTests.cs",
-              "ToolTip": "C:\\Users\\chirag mali\\source\\repos\\UnitTestProject1\\CustomerControllerTests.cs",
-              "RelativeToolTip": "..\\UnitTestProject1\\CustomerControllerTests.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "DocumentIndex": 2,
+              "Title": "IUserRoleService.cs",
+              "DocumentMoniker": "C:\\Users\\chirag mali\\source\\repos\\WebAPIProject\\Service\\IUserRoleService.cs",
+              "RelativeDocumentMoniker": "Service\\IUserRoleService.cs",
+              "ToolTip": "C:\\Users\\chirag mali\\source\\repos\\WebAPIProject\\Service\\IUserRoleService.cs",
+              "RelativeToolTip": "Service\\IUserRoleService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T09:07:53.805Z"
+              "WhenOpened": "2024-11-18T11:13:36.383Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "WebAPIProject.csproj",
-              "DocumentMoniker": "C:\\Users\\chirag mali\\source\\repos\\WebAPIProject\\WebAPIProject.csproj",
-              "RelativeDocumentMoniker": "WebAPIProject.csproj",
-              "ToolTip": "C:\\Users\\chirag mali\\source\\repos\\WebAPIProject\\WebAPIProject.csproj",
-              "RelativeToolTip": "WebAPIProject.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAABJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-05T09:48:40.753Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\chirag mali\\source\\repos\\WebAPIProject\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\chirag mali\\source\\repos\\WebAPIProject\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-05T09:40:56.675Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\chirag mali\\source\\repos\\WebAPIProject\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\chirag mali\\source\\repos\\WebAPIProject\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAE4AAAAAzMzMzMwUwGsAAAADAAAA",
+              "DocumentIndex": 0,
+              "Title": "UserRoleController.cs",
+              "DocumentMoniker": "C:\\Users\\chirag mali\\source\\repos\\WebAPIProject\\Controllers\\UserRoleController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserRoleController.cs",
+              "ToolTip": "C:\\Users\\chirag mali\\source\\repos\\WebAPIProject\\Controllers\\UserRoleController.cs",
+              "RelativeToolTip": "Controllers\\UserRoleController.cs",
+              "ViewState": "AQIAACwAAAAAzczMzMwiwEEAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T04:33:54.201Z"
+              "WhenOpened": "2024-11-18T10:45:28.831Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\chirag mali\\source\\repos\\WebAPIProject\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\chirag mali\\source\\repos\\WebAPIProject\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Properties\\launchSettings.json",
-              "ViewState": "AQIAAAwAAACAZmZmZmYkwB0AAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-05T04:35:03.059Z"
+              "Title": "Appmenus.cs",
+              "DocumentMoniker": "C:\\Users\\chirag mali\\source\\repos\\WebAPIProject\\Model\\Appmenus.cs",
+              "RelativeDocumentMoniker": "Model\\Appmenus.cs",
+              "ToolTip": "C:\\Users\\chirag mali\\source\\repos\\WebAPIProject\\Model\\Appmenus.cs",
+              "RelativeToolTip": "Model\\Appmenus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T11:55:18.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Rolepermission.cs",
+              "DocumentMoniker": "C:\\Users\\chirag mali\\source\\repos\\WebAPIProject\\Repos\\Models\\Rolepermission.cs",
+              "RelativeDocumentMoniker": "Repos\\Models\\Rolepermission.cs",
+              "ToolTip": "C:\\Users\\chirag mali\\source\\repos\\WebAPIProject\\Repos\\Models\\Rolepermission.cs",
+              "RelativeToolTip": "Repos\\Models\\Rolepermission.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T10:58:35.629Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Productimage.cs",
-              "DocumentMoniker": "C:\\Users\\chirag mali\\source\\repos\\WebAPIProject\\Repos\\Models\\Productimage.cs",
-              "RelativeDocumentMoniker": "Repos\\Models\\Productimage.cs",
-              "ToolTip": "C:\\Users\\chirag mali\\source\\repos\\WebAPIProject\\Repos\\Models\\Productimage.cs",
-              "RelativeToolTip": "Repos\\Models\\Productimage.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "TokenResponse.cs",
+              "DocumentMoniker": "C:\\Users\\chirag mali\\source\\repos\\WebAPIProject\\Model\\TokenResponse.cs",
+              "RelativeDocumentMoniker": "Model\\TokenResponse.cs",
+              "ToolTip": "C:\\Users\\chirag mali\\source\\repos\\WebAPIProject\\Model\\TokenResponse.cs",
+              "RelativeToolTip": "Model\\TokenResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T06:33:38.435Z"
+              "WhenOpened": "2024-11-07T05:54:14.35Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "Customermodel.cs",
+              "DocumentMoniker": "C:\\Users\\chirag mali\\source\\repos\\WebAPIProject\\Model\\Customermodel.cs",
+              "RelativeDocumentMoniker": "Model\\Customermodel.cs",
+              "ToolTip": "C:\\Users\\chirag mali\\source\\repos\\WebAPIProject\\Model\\Customermodel.cs",
+              "RelativeToolTip": "Model\\Customermodel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T09:49:46.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "JwtSettings.cs",
+              "DocumentMoniker": "C:\\Users\\chirag mali\\source\\repos\\WebAPIProject\\Model\\JwtSettings.cs",
+              "RelativeDocumentMoniker": "Model\\JwtSettings.cs",
+              "ToolTip": "C:\\Users\\chirag mali\\source\\repos\\WebAPIProject\\Model\\JwtSettings.cs",
+              "RelativeToolTip": "Model\\JwtSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T04:25:32.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserCred.cs",
+              "DocumentMoniker": "C:\\Users\\chirag mali\\source\\repos\\WebAPIProject\\Model\\UserCred.cs",
+              "RelativeDocumentMoniker": "Model\\UserCred.cs",
+              "ToolTip": "C:\\Users\\chirag mali\\source\\repos\\WebAPIProject\\Model\\UserCred.cs",
+              "RelativeToolTip": "Model\\UserCred.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T04:17:08.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserRegister.cs",
+              "DocumentMoniker": "C:\\Users\\chirag mali\\source\\repos\\WebAPIProject\\Model\\UserRegister.cs",
+              "RelativeDocumentMoniker": "Model\\UserRegister.cs",
+              "ToolTip": "C:\\Users\\chirag mali\\source\\repos\\WebAPIProject\\Model\\UserRegister.cs",
+              "RelativeToolTip": "Model\\UserRegister.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T11:17:58.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Tempuser.cs",
+              "DocumentMoniker": "C:\\Users\\chirag mali\\source\\repos\\WebAPIProject\\Repos\\Models\\Tempuser.cs",
+              "RelativeDocumentMoniker": "Repos\\Models\\Tempuser.cs",
+              "ToolTip": "C:\\Users\\chirag mali\\source\\repos\\WebAPIProject\\Repos\\Models\\Tempuser.cs",
+              "RelativeToolTip": "Repos\\Models\\Tempuser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBIAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T12:16:35.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LearndataContext.cs",
+              "DocumentMoniker": "C:\\Users\\chirag mali\\source\\repos\\WebAPIProject\\Repos\\LearndataContext.cs",
+              "RelativeDocumentMoniker": "Repos\\LearndataContext.cs",
+              "ToolTip": "C:\\Users\\chirag mali\\source\\repos\\WebAPIProject\\Repos\\LearndataContext.cs",
+              "RelativeToolTip": "Repos\\LearndataContext.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAIA3wCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T11:31:15.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TblUser.cs",
+              "DocumentMoniker": "C:\\Users\\chirag mali\\source\\repos\\WebAPIProject\\Repos\\Models\\TblUser.cs",
+              "RelativeDocumentMoniker": "Repos\\Models\\TblUser.cs",
+              "ToolTip": "C:\\Users\\chirag mali\\source\\repos\\WebAPIProject\\Repos\\Models\\TblUser.cs",
+              "RelativeToolTip": "Repos\\Models\\TblUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T11:05:28.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\chirag mali\\source\\repos\\WebAPIProject\\Repos\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "Repos\\Models\\Role.cs",
+              "ToolTip": "C:\\Users\\chirag mali\\source\\repos\\WebAPIProject\\Repos\\Models\\Role.cs",
+              "RelativeToolTip": "Repos\\Models\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T11:06:06.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "Refreshtoken.cs",
               "DocumentMoniker": "C:\\Users\\chirag mali\\source\\repos\\WebAPIProject\\Repos\\Models\\Refreshtoken.cs",
               "RelativeDocumentMoniker": "Repos\\Models\\Refreshtoken.cs",
@@ -241,55 +462,210 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "LearndataContext.cs",
-              "DocumentMoniker": "C:\\Users\\chirag mali\\source\\repos\\WebAPIProject\\Repos\\LearndataContext.cs",
-              "RelativeDocumentMoniker": "Repos\\LearndataContext.cs",
-              "ToolTip": "C:\\Users\\chirag mali\\source\\repos\\WebAPIProject\\Repos\\LearndataContext.cs",
-              "RelativeToolTip": "Repos\\LearndataContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "DocumentIndex": 20,
+              "Title": "PwdManger.cs",
+              "DocumentMoniker": "C:\\Users\\chirag mali\\source\\repos\\WebAPIProject\\Repos\\Models\\PwdManger.cs",
+              "RelativeDocumentMoniker": "Repos\\Models\\PwdManger.cs",
+              "ToolTip": "C:\\Users\\chirag mali\\source\\repos\\WebAPIProject\\Repos\\Models\\PwdManger.cs",
+              "RelativeToolTip": "Repos\\Models\\PwdManger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T11:31:15.288Z"
+              "WhenOpened": "2024-11-18T12:45:50.094Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 21,
+              "Title": "Productimage.cs",
+              "DocumentMoniker": "C:\\Users\\chirag mali\\source\\repos\\WebAPIProject\\Repos\\Models\\Productimage.cs",
+              "RelativeDocumentMoniker": "Repos\\Models\\Productimage.cs",
+              "ToolTip": "C:\\Users\\chirag mali\\source\\repos\\WebAPIProject\\Repos\\Models\\Productimage.cs",
+              "RelativeToolTip": "Repos\\Models\\Productimage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T06:33:38.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "OtpManager.cs",
+              "DocumentMoniker": "C:\\Users\\chirag mali\\source\\repos\\WebAPIProject\\Repos\\Models\\OtpManager.cs",
+              "RelativeDocumentMoniker": "Repos\\Models\\OtpManager.cs",
+              "ToolTip": "C:\\Users\\chirag mali\\source\\repos\\WebAPIProject\\Repos\\Models\\OtpManager.cs",
+              "RelativeToolTip": "Repos\\Models\\OtpManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T12:47:00.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\chirag mali\\source\\repos\\WebAPIProject\\Repos\\Models\\Menu.cs",
+              "RelativeDocumentMoniker": "Repos\\Models\\Menu.cs",
+              "ToolTip": "C:\\Users\\chirag mali\\source\\repos\\WebAPIProject\\Repos\\Models\\Menu.cs",
+              "RelativeToolTip": "Repos\\Models\\Menu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T12:17:07.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\chirag mali\\source\\repos\\WebAPIProject\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\chirag mali\\source\\repos\\WebAPIProject\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAD9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-05T09:40:56.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\chirag mali\\source\\repos\\WebAPIProject\\Service\\IUserService.cs",
+              "RelativeDocumentMoniker": "Service\\IUserService.cs",
+              "ToolTip": "C:\\Users\\chirag mali\\source\\repos\\WebAPIProject\\Service\\IUserService.cs",
+              "RelativeToolTip": "Service\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T11:12:51.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "BasicAuthenticationHandler.cs",
+              "DocumentMoniker": "C:\\Users\\chirag mali\\source\\repos\\WebAPIProject\\Helper\\BasicAuthenticationHandler.cs",
+              "RelativeDocumentMoniker": "Helper\\BasicAuthenticationHandler.cs",
+              "ToolTip": "C:\\Users\\chirag mali\\source\\repos\\WebAPIProject\\Helper\\BasicAuthenticationHandler.cs",
+              "RelativeToolTip": "Helper\\BasicAuthenticationHandler.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwDYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T06:36:58.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
               "Title": "AuthorizeController.cs",
               "DocumentMoniker": "C:\\Users\\chirag mali\\source\\repos\\WebAPIProject\\Controllers\\AuthorizeController.cs",
               "RelativeDocumentMoniker": "Controllers\\AuthorizeController.cs",
               "ToolTip": "C:\\Users\\chirag mali\\source\\repos\\WebAPIProject\\Controllers\\AuthorizeController.cs",
               "RelativeToolTip": "Controllers\\AuthorizeController.cs",
-              "ViewState": "AQIAABcAAADgy8zMzMwhwGcAAAAVAAAA",
+              "ViewState": "AQIAAF4AAACAzMzMzMwiwCkAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-07T04:14:00.053Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "TokenResponse.cs",
-              "DocumentMoniker": "C:\\Users\\chirag mali\\source\\repos\\WebAPIProject\\Model\\TokenResponse.cs",
-              "RelativeDocumentMoniker": "Model\\TokenResponse.cs",
-              "ToolTip": "C:\\Users\\chirag mali\\source\\repos\\WebAPIProject\\Model\\TokenResponse.cs",
-              "RelativeToolTip": "Model\\TokenResponse.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAXAAAA",
+              "DocumentIndex": 29,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\chirag mali\\source\\repos\\WebAPIProject\\Repos\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Repos\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\chirag mali\\source\\repos\\WebAPIProject\\Repos\\Models\\User.cs",
+              "RelativeToolTip": "Repos\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T05:54:14.35Z"
+              "WhenOpened": "2024-11-06T07:51:25.282Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 30,
               "Title": "RefreshHandler.cs",
               "DocumentMoniker": "C:\\Users\\chirag mali\\source\\repos\\WebAPIProject\\Container\\RefreshHandler.cs",
               "RelativeDocumentMoniker": "Container\\RefreshHandler.cs",
               "ToolTip": "C:\\Users\\chirag mali\\source\\repos\\WebAPIProject\\Container\\RefreshHandler.cs",
               "RelativeToolTip": "Container\\RefreshHandler.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAxwB0AAAAHAAAA",
+              "ViewState": "AQIAAAkAAACAZmZmZmYgwBMAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-07T05:58:00.518Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 31,
+              "Title": "APIResponse.cs",
+              "DocumentMoniker": "C:\\Users\\chirag mali\\source\\repos\\WebAPIProject\\Helper\\APIResponse.cs",
+              "RelativeDocumentMoniker": "Helper\\APIResponse.cs",
+              "ToolTip": "C:\\Users\\chirag mali\\source\\repos\\WebAPIProject\\Helper\\APIResponse.cs",
+              "RelativeToolTip": "Helper\\APIResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T10:51:41.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AQIAAJAUAACAZmZmZmYlwKIUAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-11-18T12:19:05.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chirag mali\\source\\repos\\WebAPIProject\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\chirag mali\\source\\repos\\WebAPIProject\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAA0AAAAAMzMzMzMrwB0AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T04:33:54.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ICustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\chirag mali\\source\\repos\\WebAPIProject\\Service\\ICustomerService.cs",
+              "RelativeDocumentMoniker": "Service\\ICustomerService.cs",
+              "ToolTip": "C:\\Users\\chirag mali\\source\\repos\\WebAPIProject\\Service\\ICustomerService.cs",
+              "RelativeToolTip": "Service\\ICustomerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T09:51:33.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "CustomerControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\chirag mali\\source\\repos\\UnitTestProject1\\CustomerControllerTests.cs",
+              "RelativeDocumentMoniker": "..\\UnitTestProject1\\CustomerControllerTests.cs",
+              "ToolTip": "C:\\Users\\chirag mali\\source\\repos\\UnitTestProject1\\CustomerControllerTests.cs",
+              "RelativeToolTip": "..\\UnitTestProject1\\CustomerControllerTests.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T09:07:53.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "WebAPIProject.csproj",
+              "DocumentMoniker": "C:\\Users\\chirag mali\\source\\repos\\WebAPIProject\\WebAPIProject.csproj",
+              "RelativeDocumentMoniker": "WebAPIProject.csproj",
+              "ToolTip": "C:\\Users\\chirag mali\\source\\repos\\WebAPIProject\\WebAPIProject.csproj",
+              "RelativeToolTip": "WebAPIProject.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-05T09:48:40.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\chirag mali\\source\\repos\\WebAPIProject\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\chirag mali\\source\\repos\\WebAPIProject\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAwAAACAZmZmZmYkwB0AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-05T04:35:03.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
               "Title": "IRefreshHandler.cs",
               "DocumentMoniker": "C:\\Users\\chirag mali\\source\\repos\\WebAPIProject\\Service\\IRefreshHandler.cs",
               "RelativeDocumentMoniker": "Service\\IRefreshHandler.cs",
@@ -301,103 +677,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ICustomerService.cs",
-              "DocumentMoniker": "C:\\Users\\chirag mali\\source\\repos\\WebAPIProject\\Service\\ICustomerService.cs",
-              "RelativeDocumentMoniker": "Service\\ICustomerService.cs",
-              "ToolTip": "C:\\Users\\chirag mali\\source\\repos\\WebAPIProject\\Service\\ICustomerService.cs",
-              "RelativeToolTip": "Service\\ICustomerService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T09:51:33.569Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "JwtSettings.cs",
-              "DocumentMoniker": "C:\\Users\\chirag mali\\source\\repos\\WebAPIProject\\Model\\JwtSettings.cs",
-              "RelativeDocumentMoniker": "Model\\JwtSettings.cs",
-              "ToolTip": "C:\\Users\\chirag mali\\source\\repos\\WebAPIProject\\Model\\JwtSettings.cs",
-              "RelativeToolTip": "Model\\JwtSettings.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T04:25:32.125Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Customermodel.cs",
-              "DocumentMoniker": "C:\\Users\\chirag mali\\source\\repos\\WebAPIProject\\Model\\Customermodel.cs",
-              "RelativeDocumentMoniker": "Model\\Customermodel.cs",
-              "ToolTip": "C:\\Users\\chirag mali\\source\\repos\\WebAPIProject\\Model\\Customermodel.cs",
-              "RelativeToolTip": "Model\\Customermodel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T09:49:46.695Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "BasicAuthenticationHandler.cs",
-              "DocumentMoniker": "C:\\Users\\chirag mali\\source\\repos\\WebAPIProject\\Helper\\BasicAuthenticationHandler.cs",
-              "RelativeDocumentMoniker": "Helper\\BasicAuthenticationHandler.cs",
-              "ToolTip": "C:\\Users\\chirag mali\\source\\repos\\WebAPIProject\\Helper\\BasicAuthenticationHandler.cs",
-              "RelativeToolTip": "Helper\\BasicAuthenticationHandler.cs",
-              "ViewState": "AQIAAA4AAABAZmZmZmYWwBYAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T06:36:58.296Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "APIResponse.cs",
-              "DocumentMoniker": "C:\\Users\\chirag mali\\source\\repos\\WebAPIProject\\Helper\\APIResponse.cs",
-              "RelativeDocumentMoniker": "Helper\\APIResponse.cs",
-              "ToolTip": "C:\\Users\\chirag mali\\source\\repos\\WebAPIProject\\Helper\\APIResponse.cs",
-              "RelativeToolTip": "Helper\\APIResponse.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T10:51:41.711Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "UserCred.cs",
-              "DocumentMoniker": "C:\\Users\\chirag mali\\source\\repos\\WebAPIProject\\Model\\UserCred.cs",
-              "RelativeDocumentMoniker": "Model\\UserCred.cs",
-              "ToolTip": "C:\\Users\\chirag mali\\source\\repos\\WebAPIProject\\Model\\UserCred.cs",
-              "RelativeToolTip": "Model\\UserCred.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T04:17:08.529Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\chirag mali\\source\\repos\\WebAPIProject\\Repos\\Models\\User.cs",
-              "RelativeDocumentMoniker": "Repos\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\chirag mali\\source\\repos\\WebAPIProject\\Repos\\Models\\User.cs",
-              "RelativeToolTip": "Repos\\Models\\User.cs",
-              "ViewState": "AQIAAAcAAAAANDMzMzMLwBYAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T07:51:25.282Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 38,
               "Title": "applicationhost.config",
               "DocumentMoniker": "C:\\Users\\chirag mali\\source\\repos\\WebAPIProject\\.vs\\WebAPIProject\\config\\applicationhost.config",
               "RelativeDocumentMoniker": ".vs\\WebAPIProject\\config\\applicationhost.config",
               "ToolTip": "C:\\Users\\chirag mali\\source\\repos\\WebAPIProject\\.vs\\WebAPIProject\\config\\applicationhost.config",
               "RelativeToolTip": ".vs\\WebAPIProject\\config\\applicationhost.config",
-              "ViewState": "AQIAAJQAAAC4/////z9VwKIAAAAbAAAA",
+              "ViewState": "AQIAAJIAAAC4/////79dwKIAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
               "WhenOpened": "2024-11-05T04:41:21.703Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 39,
               "Title": "Customer.cs",
               "DocumentMoniker": "C:\\Users\\chirag mali\\source\\repos\\WebAPIProject\\Repos\\Models\\Customer.cs",
               "RelativeDocumentMoniker": "Repos\\Models\\Customer.cs",
@@ -409,7 +701,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 40,
               "Title": "AutoMapperHandler.cs",
               "DocumentMoniker": "C:\\Users\\chirag mali\\source\\repos\\WebAPIProject\\Helper\\AutoMapperHandler.cs",
               "RelativeDocumentMoniker": "Helper\\AutoMapperHandler.cs",

@@ -6,8 +6,8 @@ using Microsoft.EntityFrameworkCore;
 
 namespace WebAPIProject.Repos.Models;
 
-[Table("user")]
-public partial class User
+[Table("Tbl_user")]
+public partial class TblUser
 {
     [Key]
     [Column("username")]
